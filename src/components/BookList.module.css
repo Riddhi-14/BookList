@@ -1,0 +1,18 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .searchBar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1rem;
+  }
+  
+  .bookList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
